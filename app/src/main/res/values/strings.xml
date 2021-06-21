@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="pnr">PNR:2789AIRINDIA</string>
+    <string name="flight_departing_time">Flight_Departing_Time</string>
+    <string name="scheduled">SCHEDULED</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="passenger_name">Palak</string>
+    <string name="passenger_lastname">Talwar</string>
+    <string name="age">AGE</string>
+    <string name="passanger_age">18</string>
+    <string name="location">DELHI</string>
+    <string name="flight">FLIGHT DURATION</string>
+    <string name="country">DUBAI</string>
+    <string name="duration">12 hrs</string>
+    <string name="airport">INDIRA GANDHI INTERNATIONAL AIRPORT</string>
+    <string name="date">22 JUNE 2021</string>
+    <string name="department_time">DEPARTMENT TIME</string>
+    <string name="time">11.35A.M</string>
+    <string name="gate">GATE</string>
+    <string name="number">10A</string>
+    <string name="Terminal">Terminal</string>
+    <string name="terminal_number">T3</string>
+    <string name="SEAT">SEAT</string>
+    <string name="seat_number">11B</string>
+    <string name="fli">FLIGHT NO</string>
+    <string name="flight_no">KY 10</string>
+
+</resources>
